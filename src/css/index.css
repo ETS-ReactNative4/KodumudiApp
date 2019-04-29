@@ -8,21 +8,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
-.HomeSliderMain{
-  width: 100%;
-  margin: 0 auto;
- margin-top: -10vmax;
- position: relative;
- z-index: 999;
- margin-bottom: 20px;
 
-}
+
 .homeBlocksMain {
-  /* margin-top: -10vmax; */
+  margin-top: -10vmax;
   position: relative;
   z-index: 999;
   margin-bottom: 60px;
