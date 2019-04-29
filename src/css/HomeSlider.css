@@ -1,0 +1,21 @@
+.SlideContainer{
+    /* margin-bottom: 215px; */
+}
+.Slide{
+    color: #fff;
+    margin: 5px ;
+    width: calc(14.2857% - 20px) !important;
+}
+.Slide:nth-child(1){
+    background:green;
+}
+.Slide:nth-child(2){
+    background:pink;
+}
+
+.Slide:nth-child(3){
+    background:red;
+}
+.Slide:nth-child(4){
+    background:brown;
+}
